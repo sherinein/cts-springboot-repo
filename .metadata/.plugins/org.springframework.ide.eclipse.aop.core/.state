@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springboot-springmvc-customvalidator"/>
+<aop-project name="springboot-springmvc-modelmap"/>
+<aop-project name="springboot-springmvc-hibernatevalidation"/>
+<aop-project name="springboot-springmvc-enrollmentform-jsr303validation"/>
+<aop-project name="springboot-springmvc-importresource"/>
+<aop-project name="springboot-springmvc-register-validation"/>
+<aop-project name="springboot-springmvc-controlleradvice-datevalidation"/>
+<aop-project name="springboot-springmvc-internalization"/>
+<aop-project name="springboot-springmvc-pathvariable"/>
+<aop-project name="springboot-springmvcform-login"/>
+</aop-reference-model>

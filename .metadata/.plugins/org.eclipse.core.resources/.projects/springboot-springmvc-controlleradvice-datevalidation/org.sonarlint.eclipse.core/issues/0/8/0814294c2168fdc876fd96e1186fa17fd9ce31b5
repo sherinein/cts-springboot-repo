@@ -1,0 +1,8 @@
+
+s	java:S1256"<This block of commented-out lines of code should be removed.(ìØûàøÿÿÿÿ8¼áÿãœ/HóRMAJORZ
+CODE_SMELL
+d	java:S106>"9Replace this use of System.out or System.err by a logger.(£ÆÏÁHôRMAJORZ
+CODE_SMELL
+
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ëHõRMINORZ
+CODE_SMELL

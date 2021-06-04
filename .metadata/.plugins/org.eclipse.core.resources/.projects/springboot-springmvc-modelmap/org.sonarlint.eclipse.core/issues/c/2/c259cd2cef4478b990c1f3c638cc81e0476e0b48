@@ -1,0 +1,15 @@
+
+z
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Саўёь€€€€H<RMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(–јжнH;RMAJORZ
+CODE_SMELL
+w
+java:S1192"IDefine a constant instead of duplicating this literal "showpage" 3 times.(–јжнH9RCRITICALZ
+CODE_SMELL
+s
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ЈбІшH:RMINORZ
+CODE_SMELL
+Д
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(©…≈ЭH=RMINORZ
+CODE_SMELL

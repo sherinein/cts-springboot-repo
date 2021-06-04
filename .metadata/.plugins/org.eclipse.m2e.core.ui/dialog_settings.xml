@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\springboot-workspace\demo"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-enrollmentform-jsr303validation"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-controlleradvice-datevalidation"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-pathvariable"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-register-validation"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-modelmap"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-internalization"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-importresource"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-hibernatevalidation"/>
+			<item value="D:\springboot-workspace\springboot-springmvcform-login"/>
+			<item value="D:\springboot-workspace\springboot-springmvc-customvalidator"/>
+			<item value="D:\springboot-workspace\springboot-springmvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

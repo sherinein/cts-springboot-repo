@@ -1,0 +1,18 @@
+
+a
+java:S1135""2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHpRINFOZ
+CODE_SMELL
+Y
+java:S1172".Remove this unused method parameter "product".(œ³ÜıHoRMAJORZ
+CODE_SMELL
+r
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ğ—ÇıÿÿÿÿHlRBLOCKERZBUG
+}
+java:S1104"RMake logger a static final constant or non-public and provide accessors if needed.(è…¡œHnRMINORZ
+CODE_SMELL
+Y
+java:S1121".Extract the assignment out of this expression.(ÑŸ÷HkRMAJORZ
+CODE_SMELL
+X
+java:S3416"-Update this logger to use "ProductDao.class".(è…¡œHmRMINORZ
+CODE_SMELL
