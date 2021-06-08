@@ -16,7 +16,7 @@ public class LoginController {
 	}
 	@RequestMapping("/login")
 	public String showLoginPage(@ModelAttribute("user")User user) {
-		return "register";
+		return "login";
 	}
 	@RequestMapping("/submitlogin")
 	public String validateRegisterPage(@ModelAttribute("user")User user,BindingResult result) {

@@ -11,12 +11,12 @@
 </style>
 </head>
 <body>
-<form:form action="submitlogin" method="POST" modelAttribute="student">
+<form:form action="submitlogin" method="POST" modelAttribute="user">
 <table>
     <tr>
         <td>User Name :</td>
-        <td><form:input path="userName" />
-        	<form:errors path="userName" cssClass="error"/>
+        <td><form:input path="username" />
+        	<form:errors path="username" cssClass="error"/>
         </td>
         
     </tr>
